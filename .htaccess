@@ -1,2 +1,1 @@
-AddType application/json json php
 php_value default_mimetype application/json
