@@ -1,1 +1,2 @@
-<Files apple-app-site-association>ForceType application/json</Files>
+AddType application/json json php
+php_value default_mimetype application/json
