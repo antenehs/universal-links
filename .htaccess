@@ -2,5 +2,5 @@ AddType	application/json			json
 
 
 <FilesMatch "^apple-app-site-association$">
-    ForceType application/pkcs7-mime
+    ForceType application/json
 </FilesMatch>
