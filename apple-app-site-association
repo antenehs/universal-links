@@ -8,6 +8,10 @@
             	"/uniusher/*",
             	"/*"
             ]
+        },
+        {
+            "appID": "6MVJ3P7S4A.com.strategy.mstrbadge.world",
+            "paths": [ "*" ]
         }]
     }
 }
