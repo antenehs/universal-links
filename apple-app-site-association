@@ -5,6 +5,7 @@
       {
         "appID": "YK5JTZJ7G6.com.strategy.mstrbadge.world",
         "paths": [
+          "*",
           "/uniusher/*"
         ]
       }
@@ -12,5 +13,5 @@
   },
   "webcredentials": {
        "apps": [ "YK5JTZJ7G6.com.strategy.mstrbadge.world" ]
-    }
+  }
 }
