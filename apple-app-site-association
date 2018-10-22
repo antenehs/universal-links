@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "YK5JTZJ7G6.com.strategy.mstrbadge.world",
+        "appID": "4S9ASJUQLQ.com.microstrategy.badge",
         "paths": [
           "*",
           "/uniusher/*"
@@ -12,6 +12,6 @@
     ]
   },
   "webcredentials": {
-       "apps": [ "YK5JTZJ7G6.com.strategy.mstrbadge.world" ]
+       "apps": [ "4S9ASJUQLQ.com.microstrategy.badge" ]
   }
 }
