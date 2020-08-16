@@ -1,20 +1,6 @@
 {
   "applinks": {
-    "details": [
-      {
-        "appID": "FGEKQ9U6E7.com.lomiy.lomiyapp",
-        "components": [
-               {
-                  "/": "/invite/*",
-                  "comment": "Matches any URL whose path starts with /invite/"
-               },
-               {
-                  "/": "*",
-                  "comment": "Matches any URL"
-               }
-             ]
-      }
-    ]
+    "appIDs": [ "FGEKQ9U6E7.com.lomiy.lomiyapp" ]
   },
   "webcredentials": {
        "apps": [ "FGEKQ9U6E7.com.lomiy.lomiyapp" ]
