@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appID": "4S9ASJUQLQ.com.microstrategy.badge",
+        "appID": "4S9ASJUQLQ.com.lomiy.lomiyapp",
         "paths": [
           "*",
           "/uniusher/*"
@@ -12,6 +12,6 @@
     ]
   },
   "webcredentials": {
-       "apps": [ "4S9ASJUQLQ.com.microstrategy.badge" ]
+       "apps": [ "4S9ASJUQLQ.com.lomiy.lomiyapp" ]
   }
 }
