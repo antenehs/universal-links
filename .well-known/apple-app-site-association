@@ -1,8 +1,11 @@
 {
   "applinks": {
-    "appIDs": [ "FGEKQ9U6E7.com.lomiy.lomiyapp" ]
-  },
-  "webcredentials": {
-       "apps": [ "FGEKQ9U6E7.com.lomiy.lomiyapp" ]
+    "appIDs": [],
+    "details": [
+            {
+                "appID": "FGEKQ9U6E7.com.lomiy.lomiyapp",
+                "paths": [ "*" ]
+            }
+        ]
   }
 }
