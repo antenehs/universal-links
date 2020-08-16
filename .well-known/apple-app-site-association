@@ -1,12 +1,14 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
         "appID": "FGEKQ9U6E7.com.lomiy.lomiyapp",
-        "paths": [
-          "*"
-        ]
+        "components": [
+               {
+                  "/": "/invite/*",
+                  "comment": "Matches any URL whose path starts with /invite/"
+               }
+             ]
       }
     ]
   },
