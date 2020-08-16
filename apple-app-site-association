@@ -3,15 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "4S9ASJUQLQ.com.lomiy.lomiyapp",
+        "appID": "FGEKQ9U6E7.com.lomiy.lomiyapp",
         "paths": [
-          "*",
-          "/uniusher/*"
+          "*"
         ]
       }
     ]
   },
   "webcredentials": {
-       "apps": [ "4S9ASJUQLQ.com.lomiy.lomiyapp" ]
+       "apps": [ "FGEKQ9U6E7.com.lomiy.lomiyapp" ]
   }
 }
